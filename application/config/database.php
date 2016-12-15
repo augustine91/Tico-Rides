@@ -75,10 +75,10 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 
-$db['default']['hostname'] = '127.0.0.1';
-$db['default']['username'] = 'gmarin';
+$db['default']['hostname'] = '';
+$db['default']['username'] = '';
 $db['default']['password'] = '';
-$db['default']['database'] = 'tico_rides';
+$db['default']['database'] = '';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;

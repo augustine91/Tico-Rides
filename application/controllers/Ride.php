@@ -122,13 +122,7 @@ class Ride extends CI_Controller {
         
 	}
     
-/*function cargar_foto($Id){
 
-$image = $this->Usuario->usuario_foto($Id);
-header("Content-type: image/jpeg");
-print($image);
-
-}*/
     
     
     public function autenticar() {
